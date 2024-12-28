@@ -62,6 +62,7 @@ By completing this project, you will gain:
 * A strong understanding of how to create a clean, semantic, and accessible single-page CV using HTML.
 * Basic SEO knowledge to help optimize your webpage for search engines.
 * Preparation for styling the CV in future projects with CSS.
+* https://roadmap.sh/projects/single-page-cv
 
 ## Future Enhancements
 In future projects, this single-page CV can be styled with CSS to enhance its visual appearance, making it more appealing and user-friendly.
