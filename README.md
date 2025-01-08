@@ -1,3 +1,5 @@
+# [Single-Page CV Project](#single-page-cv-project-1)
+# Basic HTML Website
 # Single-Page CV Project
 
 ## Project Overview
