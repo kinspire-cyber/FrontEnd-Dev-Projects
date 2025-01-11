@@ -1,117 +1,101 @@
-# [Single-Page CV Project](#single-page-cv-project-1)
-# [Basic HTML Website](#basic-html-website-1)
-## 1. Single-Page CV Project
+# Kingsley's Web Development Projects  
 
-### Project Overview
+Welcome to Kingsley's portfolio of web development projects! This repository contains several beginner-friendly projects designed to enhance my understanding of HTML, CSS, and web development fundamentals. Each project builds upon the previous one, focusing on structured, semantic HTML and progressively adding style and interactivity.
 
-This project involves creating a structured, single-page CV using only HTML. The goal is to demonstrate how to layout education, career history, skills, and other important information in a clean, semantic manner. This project will focus on the HTML structure, and the styling will be addressed in a later project.
+## Table of Contents  
+1. [Single-Page CV Project](#single-page-cv-project)  
+2. [Basic HTML Website](#basic-html-website)  
+3. [Personal Portfolio Project](#personal-portfolio-project)  
 
-### Key Requirements
+---
 
-* **Semantic HTML:** Use appropriate HTML tags to structure the CV content logically and accessibly.
-* **SEO Meta Tags:** Include essential meta tags for SEO purposes to improve visibility.
-* **Open Graph (OG) Tags:** Add Open Graph tags for better social media sharing.
-* **Favicon:** Include a favicon for the webpage.
+## 1. Single-Page CV Project  
 
-### Sections in the CV
+### [Project Overview](https://roadmap.sh/projects/single-page-cv)  
+The goal of this project was to create a structured, single-page CV using only HTML. It showcases education, work experience, professional skills, and personal projects in a clean and accessible manner. The focus was on the use of semantic HTML to ensure a well-organized layout and SEO-friendly structure.  
 
-#### 1. Education & Certifications
-* Meta Certified Digital Marketing Associate (Sep 2023)
-* OND in Computer Engineering (Aug 2023 – Present)
-* B.Sc. in Computer Science (In view, National Open University of Nigeria)
-* Google IT Support Professional Certificate (May 2022)
+### Key Features  
+- **Education & Certifications:** Details of academic achievements and certifications.  
+- **Work Experience:** Timeline of roles and responsibilities.  
+- **Professional Skills:** Highlights of technical and soft skills.  
+- **Contact Information:** Quick access to personal details.  
+- **Project Showcase:** Summary of professional and volunteer projects.  
 
-#### 2. Work Experience
-* IT Support Specialist & Digital Marketer at Pieach Limited, Lagos (May 2023 – Dec 2023)
-* Lab Technician at Federal Polytechnic Oko, Anambra (Dec 2019 – Feb 2023)
-* Information Technology Instructor (Part-Time) at Inspire Polytechnic, Lagos (May 2024 – Present)
+### Learning Objectives  
+- Practice using semantic HTML for structure.  
+- Gain knowledge of basic SEO techniques with meta tags and OG tags.  
+- Prepare for future CSS styling projects.  
 
-#### 3. Professional Skills
-* Cybersecurity: IT security practices
-* IT Support & Networking
-* Web Development (HTML, CSS, CMS)
-* Digital Marketing: Social media campaigns
-* Problem-Solving & Analytical Thinking
-* Adaptability & Communication
+### Project URL: [Single-Page CV](hhttps://github.com/kinspire-cyber/FrontEnd-Dev-Projects/tree/main/My_Single-Page%20CV)  
 
-#### 4. Summary
-A versatile IT Support Specialist and Digital Marketer with over five years of experience in troubleshooting, system administration, and digital marketing. Adept at merging technical expertise with creative marketing strategies to drive business growth. Currently expanding skills in front-end development.
+---
 
-#### 5. Contact Information
-* Name: Kingsley I. Onyema
-* Address: 3, Ajalekoko Church Street, Makoko, Yaba, Lagos
-* Phone: +2348134900804
-* Email: onyemakingsley363@yahoo.com
-* LinkedIn: [Kingsley Onyema](https://www.linkedin.com/in/kingsley-onyema-486a57143/)
+## 2. Basic HTML Website  
 
-#### 6. Projects
-* KinspireTech YouTube Channel: Created tutorials on IT solutions like router setups and Windows optimization.
-* Networking of FedPoly Comet Ventures: Successfully networked 30+ computers and installed intercom systems.
+### [Project Overview](https://roadmap.sh/projects/basic-html-website)  
+The objective of this project was to create a multi-page website using HTML only. This laid the foundation for understanding website structure, navigation, and the role of semantic HTML in creating accessible and SEO-friendly web pages.  
 
-#### 7. Volunteering
-* Media Associate at Dunamis International Gospel Centre, Lekki (May 2023 – Present)
-* Media Director at Dunamis International Gospel Centre, Ekwulobia (Jan 2020 – May 2023)
+### Key Features  
+- **Website Pages:**  
+  - Homepage  
+  - Projects  
+  - Articles  
+  - Contact  
 
-### Submission Checklist
-* **HTML Structure:** Semantically correct HTML layout with sections for education, skills, career history, and contact information.
-* **SEO Meta Tags:** Included in the head section of the HTML file.
-* **OG Tags:**  Added for social media sharing.
-* **Favicon:** Linked in the head section.
+- **Navigation Bar:**  
+  - Present on all pages, linking seamlessly between them.  
 
-### Goals of This Project
-By completing this project, you will gain:
+- **Contact Form:**  
+  - Includes fields for Name, Email, and Message.  
 
-* A strong understanding of how to create a clean, semantic, and accessible single-page CV using HTML.
-* Basic SEO knowledge to help optimize your webpage for search engines.
-* Preparation for styling the CV in future projects with CSS.
-* https://roadmap.sh/projects/single-page-cv
+### Learning Objectives  
+- Understand website structure with multiple pages.  
+- Build navigation systems and forms using HTML.  
+- Lay the groundwork for styling with CSS in later projects.  
 
-### Future Enhancements
-In future projects, this single-page CV can be styled with CSS to enhance its visual appearance, making it more appealing and user-friendly.
+### Project URL: [Basic HTML Website](https://github.com/kinspire-cyber/FrontEnd-Dev-Projects/tree/main/Basic_HTML_Website)  
 
-## 2. Basic HTML Website
+---
 
-### Project Overview
-The goal of this project is to create a simple multi-page website using HTML only. This project focuses on building the structural layout of a website, including its essential components like header, footer, navigation, main content, and sidebars. Styling is not required for this project, as it is intended to focus on HTML semantics and website structure.
+## 3. Personal Portfolio Project  
 
-### Project Requirements
-1. **Website Pages:**
-    * Homepage
-    * Projects
-    * Articles
-    * Contact
+### [Project Overview](https://roadmap.sh/projects/portfolio-website)  
+This project builds upon the "Basic HTML Website" by transforming it into a personal portfolio. Using CSS, the portfolio showcases Kingsley's skills, projects, and contact information in a visually appealing and responsive format.  
 
-2. **Navigation Bar:**
+### Key Features  
+- **Responsive Design:** Adaptable layouts for mobile and desktop devices.  
+- **Improved Navigation:** A stylish navigation bar with responsive behavior.  
+- **Styled Contact Form:** Enhanced form design for better user interaction.  
+- **Dark Mode:** Optional feature to switch between light and dark themes.  
 
-    * A navigation bar should be present on all pages.
-    * Links should connect all the pages in the website.
-3. **Contact Page:**
+### Learning Objectives  
+- Apply CSS techniques such as Flexbox, media queries, and the box model.  
+- Develop a consistent design using color schemes and typography.  
+- Create responsive layouts for an improved user experience.  
 
-    * Include a form with the following fields:
-        * Name
-        * Email
-        * Message
-4. **HTML Best Practices:**
+### Bonus Features  
+- Hosted on GitHub Pages or Cloudflare Pages.  
+- Use of Google Fonts for typography.  
 
-    * Use a **semantically correct HTML structure** for all pages.
-    * Include **SEO meta tags** in the <head> section of each page.
+### Project URL: [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)  
 
-### Learning Objectives
-* Understand how to create a website with multiple pages using HTML.
-* Learn how to structure a website in a semantic and SEO-friendly way.
-* Build a foundation for adding CSS styles in future projects.
-* Use forms effectively in HTML for gathering user input.
+---
 
-### Tips to Succeed in This Project
-* Focus on the HTML layout and ensure that the structure is clean and organized.
-* Avoid adding CSS styles; the goal is to work purely with HTML for this project.
-* Use semantic HTML tags like <header>, <footer>, <nav>, <section>, <article>, etc., to ensure proper structure.
-* Plan your website layout beforehand, and maintain consistency across pages.
+## Future Plans  
+1. **Add Interactivity:** Learn JavaScript to introduce dynamic behaviors to web pages.  
+2. **Explore Advanced CSS:** Dive into animations, transitions, and grid layouts.  
+3. **Enhance Accessibility:** Ensure all projects meet WCAG guidelines for accessibility.  
 
-### Submission Checklist
- * Does the website have four pages (Homepage, Projects, Articles, Contact)?
- * Is the navigation bar present on all pages and functional?
- * Have you included SEO meta tags in the <head> section?
- * Does the Contact page contain a form with the required fields?
- * Is your HTML code semantically correct and easy to read?
- * https://roadmap.sh/projects/basic-html-website
+---
+
+## Contact Information  
+- **Name:** Kingsley I. Onyema  
+- **Phone:** +2348134900804  
+- **Email:** [onyemakingsley363@yahoo.com](mailto:onyemakingsley363@yahoo.com)  
+- **LinkedIn:** [Kingsley Onyema](https://www.linkedin.com/in/kingsley-onyema-486a57143/)  
+
+Feel free to explore the projects, provide feedback, and connect with me for collaboration opportunities!  
+
+---  
+
+This README will grow as I continue to develop and expand my portfolio. Stay tuned for updates!  
