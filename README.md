@@ -3,10 +3,10 @@
 Welcome to Kingsley's portfolio of web development projects! This repository contains several beginner-friendly projects designed to enhance my understanding of HTML, CSS, and web development fundamentals. Each project builds upon the previous one, focusing on structured, semantic HTML and progressively adding style and interactivity.
 
 ## Table of Contents
-1. [Single-Page CV Project](#single-page-cv-project)
-2. [Basic HTML Website](#basic-html-website)
-3. [Personal Portfolio Project](#personal-portfolio-project)
-4. [Changelog Component](#changelog-component)
+1. [Single-Page CV Project](#1-single-page-cv-project)
+2. [Basic HTML Website](#2-basic-html-website)
+3. [Personal Portfolio Project](#3-personal-portfolio-project)
+4. [Changelog Component](#4-changelog-component)
 
 ---
 
