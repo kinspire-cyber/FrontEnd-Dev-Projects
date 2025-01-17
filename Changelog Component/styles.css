@@ -1,0 +1,134 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.changelog-container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    margin-bottom: 5%;
+    border-style: 3px solid;
+    /* max-width: 8; */
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: #222;
+}
+
+.subtitle {
+    margin-bottom: 30px;
+    font-size: 18px; padding-bottom: 20px;
+    color: #555;
+}
+
+/* Timeline Styles */
+.timeline {
+    position: relative;
+    margin: 20px 0;
+    padding-right: 20px;
+}
+
+.timeline-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.date {
+    flex: 1;
+    text-align: right;
+    padding-right: 15px;
+    font-size: 14px;
+    color: #666;
+}
+
+.dot-line {
+    position: relative;
+    width: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    background-color: #000000;
+    border-radius: 50%;
+    position: relative;
+}
+
+.dot-line::after {
+    content: '';
+    position: absolute;
+    top: -250%;
+    bottom: -220%;
+    width: 2px;
+    background-color: #000000;
+}
+
+.description {
+    flex: 1;
+    text-align: left;
+    padding-left: 15px;
+    font-size: 16px;
+    color: #333;
+}
+
+/* Button Styles */
+.cta-button {
+    background-color: #222;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.cta-button:hover {
+    background-color: #444;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .changelog-container {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+    }
+
+    .description {
+        font-size: 14px;
+    }
+
+    .cta-button {
+        font-size: 14px;
+    }
+
+    .dot-line::after {
+        
+        top: -300%;
+        bottom: -300%;
+    }
+}
