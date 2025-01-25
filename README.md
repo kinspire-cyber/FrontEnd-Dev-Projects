@@ -8,7 +8,7 @@ Welcome to Kingsley's portfolio of web development projects! This repository con
 3. [Personal Portfolio Project](#3-personal-portfolio-project)
 4. [Changelog Component](#4-changelog-component)
 5. [Testimonial Cards](#5-testimonial-cards)
-
+6. [Datepicker UI](#6-datepicker-ui)
 ---
 
 ## 1. Single-Page CV Project
@@ -100,9 +100,6 @@ The goal of this project was to create a visually appealing and responsive chang
 - Explore the potential for complex layouts using CSS in future projects.
 
 ---
-
----
-
 ## 5. Testimonial Cards
 
 ### [Project Overview](https://roadmap.sh/projects/testimonial-cards)
@@ -119,19 +116,24 @@ This project focuses on creating a set of testimonial cards for a website using 
 - Understand how to structure cards using HTML and style them with CSS.
 - Experiment with responsive design principles using media queries.
 
-### Example Design
-```html
-<div class="testimonial-card">
-  <div class="profile">
-    <img src="profile.jpg" alt="User profile picture">
-    <h3>John Doe</h3>
-    <p>Software Engineer</p>
-  </div>
-  <blockquote>
-    "This website exceeded my expectations! The team was professional and delivered high-quality work."
-  </blockquote>
-</div>
-```
+---
+
+## 6. Datepicker UI
+
+### [Project Overview](https://roadmap.sh/projects/datepicker-ui)
+This project focuses on creating a simple datepicker UI using only HTML and CSS. Although this version is not functional, it serves as a static foundation that can be enhanced with JavaScript in the future. The design should be visually appealing and responsive, making it easy to integrate into any website or application.
+
+### Key Features
+- **Static UI Component:** Build the structure of a datepicker interface.
+- **Customizable Design:** Style it with custom colors, fonts, and layouts.
+- **Responsive Layout:** Ensure the UI adapts well to various screen sizes.
+- **Future-Ready:** Design the UI as a base for a functional datepicker.
+
+### Learning Objectives
+- Practice CSS layout and positioning techniques.
+- Understand how to create a calendar-like grid using CSS.
+- Develop skills in designing UI components for usability.
+
 
 ### Contact Information  
 - **Name:** Kingsley I. Onyema  
