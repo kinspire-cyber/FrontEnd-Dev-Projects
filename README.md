@@ -7,6 +7,7 @@ Welcome to Kingsley's portfolio of web development projects! This repository con
 2. [Basic HTML Website](#2-basic-html-website)
 3. [Personal Portfolio Project](#3-personal-portfolio-project)
 4. [Changelog Component](#4-changelog-component)
+5. [Testimonial Cards](#5-testimonial-cards)
 
 ---
 
@@ -98,11 +99,45 @@ The goal of this project was to create a visually appealing and responsive chang
 - Build responsive components that integrate easily into websites.
 - Explore the potential for complex layouts using CSS in future projects.
 
-## Contact Information  
+---
+
+---
+
+## 5. Testimonial Cards
+
+### [Project Overview](https://roadmap.sh/projects/testimonial-cards)
+This project focuses on creating a set of testimonial cards for a website using HTML and CSS. Testimonials help build trust and credibility by showcasing positive feedback from customers or users. These cards are styled to be visually appealing, responsive, and easy to integrate into any website.
+
+### Key Features
+- **Structured Layout:** Clean and organized design for testimonials.
+- **Responsive Design:** Cards adapt seamlessly to different screen sizes.
+- **Customizable Content:** Add any text, images, or user details as needed.
+- **Stylish Presentation:** Modern design with proper spacing, borders, and alignment.
+
+### Learning Objectives
+- Practice CSS techniques for layout and positioning.
+- Understand how to structure cards using HTML and style them with CSS.
+- Experiment with responsive design principles using media queries.
+
+### Example Design
+```html
+<div class="testimonial-card">
+  <div class="profile">
+    <img src="profile.jpg" alt="User profile picture">
+    <h3>John Doe</h3>
+    <p>Software Engineer</p>
+  </div>
+  <blockquote>
+    "This website exceeded my expectations! The team was professional and delivered high-quality work."
+  </blockquote>
+</div>
+```
+
+### Contact Information  
 - **Name:** Kingsley I. Onyema  
 - **Phone:** +2348134900804  
 - **Email:** [onyemakingsley363@yahoo.com](mailto:onyemakingsley363@yahoo.com)  
-- **LinkedIn:** [Kingsley Onyema](https://www.linkedin.com/in/kingsley-onyema-486a57143/)  
+- **LinkedIn:** [Kingsley Onyema Linkedin Profile](https://www.linkedin.com/in/kingsley-onyema-486a57143/)  
 
 Feel free to explore the projects, provide feedback, and connect with me for collaboration opportunities!  
 
