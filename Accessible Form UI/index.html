@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Accessible Form UI/styles.css">
+    <title>Accessible Form UI</title>
+</head>
+<body>
+    <div class="form-container">
+        <!-- <h1>Create Account</h1> -->
+        <div class="form-left">
+            <label for="full-name"> Full Name</label>
+            <input type="text" name="full-name" id="full-name" aria-required="true" placeholder="What should we call you?" required>
+
+            <label for="email"> Email</label>
+            <input type="email" name="email" id="email" aria-required="true" class="error" value="john@doe.com"/>
+            <p class="error-message">Email is already taken</p>
+
+            <label for="password">Enter Password</label>
+            <div class="password-container">
+                <input type="password" name="password" id="password" aria-required="true" value="xxxxxxxx" required>
+                <span class="password-tooggle" aria-live="polite">👁</span>
+            </div>
+
+            <label for="confirm-password">Confirm Password</label>
+            <div class="password-container">
+                <input type="password" name="confirm-password" id="confirm-password" aria-required="true" value="xxxxxxxx" required>
+                <span class="password-tooggle" aria-live="polite">👁</span>
+            </div>
+            <button type="submit">Update Profile</button>
+        </div>
+        
+        <div class="form-right">
+            <div class="progress-circle">65%</div>
+            <p>Profile Completeness</p>
+            <ul class="completeness-list">
+                <li class="completed">Create Account</li>
+                <li class="completed">Update Roadmap Progress</li>
+                <li class="completed">Setup Public Profile</li>
+                <li>Complete your first project</li>
+                <li>Invite your Friends</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

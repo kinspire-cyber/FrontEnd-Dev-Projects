@@ -9,6 +9,7 @@ Welcome to Kingsley's portfolio of web development projects! This repository con
 4. [Changelog Component](#4-changelog-component)
 5. [Testimonial Cards](#5-testimonial-cards)
 6. [Datepicker UI](#6-datepicker-ui)
+7. [Accessible Form UI](#7-accessible-form-ui)
 ---
 
 ## 1. Single-Page CV Project
@@ -133,6 +134,29 @@ This project focuses on creating a simple datepicker UI using only HTML and CSS.
 - Practice CSS layout and positioning techniques.
 - Understand how to create a calendar-like grid using CSS.
 - Develop skills in designing UI components for usability.
+
+---
+
+## 7. Accessible Form UI
+
+### [Project Overview](https://roadmap.sh/projects/accessible-form-ui)
+This project focuses on creating an accessible form UI using only HTML and CSS. The form includes fields for a full name, email, password, and confirm password, along with features like a password visibility toggle, a completeness progress bar, and a checklist of requirements to ensure completeness. 
+
+The primary goal is to design a form that is easy to use and fully accessible, following best practices to cater to users with disabilities. While the form won’t be functional, it will serve as a static UI component that can be extended with JavaScript in the future.
+
+### Key Features
+- **Form Fields:** Inputs for full name, email, password, and confirm password.
+- **Password Visibility Toggle:** A button to show or hide password input text.
+- **Completeness Progress Bar:** Visual feedback to indicate form completion.
+- **Accessibility Compliance:** Designed with accessibility in mind, ensuring compatibility with screen readers and assistive technologies.
+
+### Accessibility Guidelines
+1. **Labeling:** Ensure each input field has an associated `<label>` element with the `for` attribute correctly linked.
+2. **Focus States:** Style focus states for input fields to aid keyboard navigation.
+3. **Error Messaging:** Reserve space for error messages tied to specific fields.
+4. **ARIA Attributes:** Use attributes like `aria-required` and `aria-invalid` where applicable.
+5. **Color Contrast:** Maintain sufficient contrast for readability per WCAG standards.
+6. **Interactive Elements:** Ensure interactive elements like the password toggle button are keyboard-accessible and provide clear feedback.
 
 
 ### Contact Information  
