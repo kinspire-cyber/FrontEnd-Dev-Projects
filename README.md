@@ -10,6 +10,7 @@ Welcome to Kingsley's portfolio of web development projects! This repository con
 5. [Testimonial Cards](#5-testimonial-cards)
 6. [Datepicker UI](#6-datepicker-ui)
 7. [Accessible Form UI](#7-accessible-form-ui)
+8. [Image Grid Layout](#8-image-grid-layout)
 ---
 
 ## 1. Single-Page CV Project
@@ -157,6 +158,24 @@ The primary goal is to design a form that is easy to use and fully accessible, f
 4. **ARIA Attributes:** Use attributes like `aria-required` and `aria-invalid` where applicable.
 5. **Color Contrast:** Maintain sufficient contrast for readability per WCAG standards.
 6. **Interactive Elements:** Ensure interactive elements like the password toggle button are keyboard-accessible and provide clear feedback.
+
+---
+
+## 8. Image Grid Layout
+
+### [Project Overview](https://roadmap.sh/projects/image-grid-layout)
+This project focuses on creating a grid layout of images using HTML and CSS. The goal is to provide hands-on experience with CSS Grid, a powerful layout system for building responsive and flexible web designs.
+
+### Key Features
+- **Structured Grid Layout:** Arrange six images in a visually appealing grid.
+- **Responsive Design:** The grid should adapt to different screen sizes and orientations.
+- **Customizable Content:** Use the provided images or replace them with your own.
+- **Modern CSS Techniques:** Leverage CSS Grid to simplify layout creation and improve responsiveness.
+
+### Learning Objectives
+- Master the fundamentals of CSS Grid, including defining grid containers, rows, and columns.
+- Create responsive designs by adapting the grid layout based on viewport sizes.
+- Manage alignment and spacing for a clean, professional look.
 
 
 ### Contact Information  
