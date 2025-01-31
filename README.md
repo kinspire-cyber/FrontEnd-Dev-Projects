@@ -11,6 +11,7 @@ Welcome to Kingsley's portfolio of web development projects! This repository con
 6. [Datepicker UI](#6-datepicker-ui)
 7. [Accessible Form UI](#7-accessible-form-ui)
 8. [Image Grid Layout](#8-image-grid-layout)
+9. [Tooltip UI](#9-tooltip-ui)
 ---
 
 ## 1. Single-Page CV Project
@@ -177,6 +178,24 @@ This project focuses on creating a grid layout of images using HTML and CSS. The
 - Create responsive designs by adapting the grid layout based on viewport sizes.
 - Manage alignment and spacing for a clean, professional look.
 
+---
+
+## 9. Tooltip UI
+
+### [Project Overview](https://roadmap.sh/projects/tooltip-ui)
+This project involves creating a tooltip that appears above navigation items when hovered, using only HTML and CSS. A tooltip is a small pop-up box that provides additional information about a navigation item when a user hovers over it. This project will enhance your understanding of **CSS positioning, hover effects, and UI design** without using JavaScript.
+
+### Key Features
+- **Pure CSS Implementation:** No JavaScript required.
+- **Smooth Hover Effects:** Tooltips appear seamlessly on hover.
+- **Customizable Styling:** Modify colors, shapes, and animations.
+- **Interactive UI:** Enhances user experience by providing helpful hints.
+
+### Learning Objectives
+- Master **CSS positioning** to place elements correctly.
+- Implement **hover effects** for smooth tooltip transitions.
+- Experiment with **CSS animations** (e.g., fade-in, slide-in, scale-in).
+- Improve **navigation UI** design for better user engagement.
 
 ### Contact Information  
 - **Name:** Kingsley I. Onyema  
