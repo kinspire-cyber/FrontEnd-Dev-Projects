@@ -12,6 +12,7 @@ Welcome to Kingsley's portfolio of web development projects! This repository con
 7. [Accessible Form UI](#7-accessible-form-ui)
 8. [Image Grid Layout](#8-image-grid-layout)
 9. [Tooltip UI](#9-tooltip-ui)
+10. [Tabs Component](#10-tabs-component)
 ---
 
 ## 1. Single-Page CV Project
@@ -196,6 +197,25 @@ This project involves creating a tooltip that appears above navigation items whe
 - Implement **hover effects** for smooth tooltip transitions.
 - Experiment with **CSS animations** (e.g., fade-in, slide-in, scale-in).
 - Improve **navigation UI** design for better user engagement.
+
+---
+
+## 10. Tabs Component
+
+### [Project Overview](https://roadmap.sh/projects/tabs-component)
+This project introduces basic DOM manipulation and event handling in JavaScript by creating a simple tabs functionality. Tabs help organize content efficiently, allowing users to navigate between sections without reloading the page.
+
+### Key Features
+- **Interactive UI:** Users can switch between different tabs seamlessly.
+- **JavaScript Event Handling:** Click events dynamically update the content.
+- **Smooth Transitions:** CSS animations can enhance the switching experience.
+- **Customizable Layout:** Easily adaptable to different designs and themes.
+
+### Learning Objectives
+- Learn how to select and manipulate DOM elements using JavaScript.
+- Understand event handling (e.g., click events).
+- Implement logic to show/hide content dynamically.
+
 
 ### Contact Information  
 - **Name:** Kingsley I. Onyema  

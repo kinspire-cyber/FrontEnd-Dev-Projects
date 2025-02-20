@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tabs-container{
+    width: 50%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.tabs{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.tab{
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background: lightgray;
+    margin: 0 5px;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+.tab.active {
+    background: #007bff;
+    color: white;
+}
+
+.tab:hover {
+    background: #0056b3;
+    color: white;
+}
+
+.tab.content {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.content {
+    display: none;
+}
+
+.content.active {
+    display: block;
+}
