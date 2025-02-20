@@ -202,7 +202,7 @@ This project involves creating a tooltip that appears above navigation items whe
 
 ## 10. Tabs Component
 
-### [Project Overview](https://roadmap.sh/projects/tabs-component)
+### [Project Overview](https://roadmap.sh/projects/simple-tabs)
 This project introduces basic DOM manipulation and event handling in JavaScript by creating a simple tabs functionality. Tabs help organize content efficiently, allowing users to navigate between sections without reloading the page.
 
 ### Key Features
