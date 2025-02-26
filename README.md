@@ -13,6 +13,7 @@ Welcome to Kingsley's portfolio of web development projects! This repository con
 8. [Image Grid Layout](#8-image-grid-layout)
 9. [Tooltip UI](#9-tooltip-ui)
 10. [Tabs Component](#10-tabs-component)
+11. [Cookie Consent](#11-cookie-consent)
 ---
 
 ## 1. Single-Page CV Project
@@ -215,6 +216,23 @@ This project introduces basic DOM manipulation and event handling in JavaScript 
 - Learn how to select and manipulate DOM elements using JavaScript.
 - Understand event handling (e.g., click events).
 - Implement logic to show/hide content dynamically.
+
+---
+
+## 11. Cookie Consent
+
+### [Project Overview](https://roadmap.sh/projects/cookie-consent)
+This project focuses on building a simple cookie consent banner using JavaScript. Cookie consent popups are essential for informing users about a website’s use of cookies and obtaining their consent in compliance with privacy regulations.
+
+### Key Features
+- **Popup Banner:** Displays a cookie consent message when the user visits the page.
+- **Accept Button:** Hides the banner upon acceptance.
+- **Persistent Storage:** Uses cookies or local storage to remember the user's consent.
+
+### Learning Objectives
+- Understand basic **DOM manipulation** in JavaScript.
+- Work with **event listeners** for user interaction.
+- Store and retrieve data using **cookies or local storage**.
 
 
 ### Contact Information  
