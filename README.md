@@ -14,6 +14,7 @@ Welcome to Kingsley's portfolio of web development projects! This repository con
 9. [Tooltip UI](#9-tooltip-ui)
 10. [Tabs Component](#10-tabs-component)
 11. [Cookie Consent](#11-cookie-consent)
+12. [Restricted Textarea](#12-restricted-textarea)
 ---
 
 ## 1. Single-Page CV Project
@@ -233,6 +234,25 @@ This project focuses on building a simple cookie consent banner using JavaScript
 - Understand basic **DOM manipulation** in JavaScript.
 - Work with **event listeners** for user interaction.
 - Store and retrieve data using **cookies or local storage**.
+
+---
+
+## 12. Restricted Textarea
+
+### [Project Overview](https://roadmap.sh/projects/restricted-textarea)
+This project involves creating a **textarea input field** that tracks and displays the number of characters typed by the user while enforcing a maximum character limit. Once the user reaches the limit, further input is restricted, and the border color changes to red as a visual cue.
+
+### Key Features
+- **Live Character Count:** Updates dynamically as the user types.
+- **Maximum Character Limit:** Prevents additional input once the limit is reached.
+- **Visual Feedback:** Changes border color when the limit is hit.
+- **Accessible and User-Friendly:** Provides immediate feedback for better UX.
+
+### Learning Objectives
+- Manipulate **input elements** dynamically using JavaScript.
+- Use **event listeners** to handle real-time user input.
+- Apply **CSS styling** for visual feedback.
+- Enhance form usability by preventing excessive input.
 
 
 ### Contact Information  
